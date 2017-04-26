@@ -1,5 +1,3 @@
-[?04/?26/?2017 4:07 PM] Raza, Washim: 
-No Title
 node { 
 checkout([$class: 'GitSCM', branches: [[name: '*/master']], 
 	doGenerateSubmoduleConfigurations: false, extensions: [], 
